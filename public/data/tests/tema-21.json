@@ -208,5 +208,61 @@
     "correcta": 0,
     "explicacion": "El tema la presenta como potestativa y previa o alternativa.",
     "referencia": "Tema 21, 3.6 El Consejo de Transparencia y Buen Gobierno (arts. 33-40 LTBG)"
+  },
+  {
+    "id": "t21-p016",
+    "tema": 21,
+    "pregunta": "¿Qué NO encaja con la publicidad activa?",
+    "opciones": [
+      "Exigir solicitud individual previa para publicar cada dato obligatorio",
+      "Publicar información institucional",
+      "Publicar información económica y presupuestaria",
+      "Publicar contratos, convenios y subvenciones en los términos legales"
+    ],
+    "correcta": 0,
+    "explicacion": "La publicidad activa obliga a publicar de oficio determinada información, sin esperar a una solicitud individual.",
+    "referencia": "Tema 21, 2.1 y 2.2 Publicidad activa"
+  },
+  {
+    "id": "t21-p017",
+    "tema": 21,
+    "pregunta": "¿Cuál es el plazo general para resolver una solicitud de acceso a información pública según el tema?",
+    "opciones": [
+      "Un mes",
+      "Diez días",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correcta": 0,
+    "explicacion": "El plazo general de resolución del derecho de acceso es de un mes.",
+    "referencia": "Tema 21, 3.3 Plazo de resolución"
+  },
+  {
+    "id": "t21-p018",
+    "tema": 21,
+    "pregunta": "¿Qué dato pertenece a las categorías especialmente protegidas del art. 9 RGPD?",
+    "opciones": [
+      "Datos de salud",
+      "Código postal",
+      "Número de expediente administrativo ordinario",
+      "Fecha de presentación de una solicitud"
+    ],
+    "correcta": 0,
+    "explicacion": "Los datos de salud son categorías especiales de datos conforme al RGPD.",
+    "referencia": "Tema 21, 5.5 Datos especialmente protegidos"
+  },
+  {
+    "id": "t21-p019",
+    "tema": 21,
+    "pregunta": "¿Qué principio del RGPD exige que los datos sean adecuados, pertinentes y limitados a lo necesario?",
+    "opciones": [
+      "Minimización de datos",
+      "Publicidad activa",
+      "Jerarquía normativa",
+      "Libre concurrencia"
+    ],
+    "correcta": 0,
+    "explicacion": "La minimización obliga a tratar solo los datos adecuados, pertinentes y limitados a la finalidad.",
+    "referencia": "Tema 21, 5.3 Principios del tratamiento"
   }
 ]

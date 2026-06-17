@@ -222,5 +222,61 @@
     "correcta": 2,
     "explicacion": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
     "referencia": "Tema 7, 2.4 Organizacion institucional de las CC.AA. (art. 152 CE)"
+  },
+  {
+    "id": "t07-p017",
+    "tema": 7,
+    "pregunta": "¿Qué cláusula del art. 149.3 CE opera cuando una Comunidad Autónoma no ha asumido una competencia?",
+    "opciones": [
+      "La competencia corresponde al Estado",
+      "La competencia queda suspendida hasta reforma estatutaria",
+      "La competencia se atribuye automáticamente a la provincia",
+      "La competencia pasa al municipio por subsidiariedad"
+    ],
+    "correcta": 0,
+    "explicacion": "Las materias no asumidas por los Estatutos corresponden al Estado; además, el Derecho estatal es supletorio.",
+    "referencia": "Tema 7, 3.5 Cláusula de prevalencia y supletoriedad"
+  },
+  {
+    "id": "t07-p018",
+    "tema": 7,
+    "pregunta": "¿Qué instrumento permite al Estado transferir o delegar en las Comunidades Autónomas facultades de titularidad estatal susceptibles de transferencia?",
+    "opciones": [
+      "Ley orgánica de transferencia o delegación",
+      "Real decreto-ley autonómico",
+      "Reglamento de armonización",
+      "Convenio colectivo interadministrativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 150.2 CE prevé leyes orgánicas de transferencia o delegación.",
+    "referencia": "Tema 7, 3.7 Leyes marco y leyes de transferencia"
+  },
+  {
+    "id": "t07-p019",
+    "tema": 7,
+    "pregunta": "¿Qué exige el art. 155 CE antes de adoptar medidas frente a una Comunidad Autónoma?",
+    "opciones": [
+      "Requerimiento previo al Presidente autonómico y, si no es atendido, aprobación por mayoría absoluta del Senado",
+      "Autorización previa del Tribunal Constitucional por unanimidad",
+      "Mayoría de tres quintos del Congreso sin intervención del Senado",
+      "Referéndum en la Comunidad Autónoma afectada"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 155 CE exige requerimiento al Presidente autonómico y aprobación por mayoría absoluta del Senado.",
+    "referencia": "Tema 7, 4.1 El art. 155 CE"
+  },
+  {
+    "id": "t07-p020",
+    "tema": 7,
+    "pregunta": "¿Qué afirmación sobre el Estatuto de Autonomía es correcta?",
+    "opciones": [
+      "Es la norma institucional básica de la Comunidad Autónoma",
+      "Es un reglamento aprobado por el Gobierno autonómico",
+      "Solo regula competencias municipales",
+      "No forma parte del ordenamiento estatal"
+    ],
+    "correcta": 0,
+    "explicacion": "El Estatuto de Autonomía es la norma institucional básica de cada Comunidad Autónoma y forma parte del ordenamiento estatal.",
+    "referencia": "Tema 7, 2.3 El Estatuto de Autonomía"
   }
 ]

@@ -278,5 +278,61 @@
     "correcta": 0,
     "explicacion": "El principio impide la doble sanción por los mismos hechos, con los matices que contempla el ordenamiento.",
     "referencia": "Tema 22, 8.1 Fundamento y principios"
+  },
+  {
+    "id": "t22-p021",
+    "tema": 22,
+    "pregunta": "¿Qué personal se nombra por razones expresamente justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera?",
+    "opciones": [
+      "Funcionario interino",
+      "Personal eventual",
+      "Personal laboral fijo",
+      "Alto cargo electivo"
+    ],
+    "correcta": 0,
+    "explicacion": "El funcionario interino se nombra por razones justificadas de necesidad y urgencia para funciones de funcionarios de carrera.",
+    "referencia": "Tema 22, 1.2 Clases de personal"
+  },
+  {
+    "id": "t22-p022",
+    "tema": 22,
+    "pregunta": "¿Qué retribución forma parte de las básicas?",
+    "opciones": [
+      "Trienios",
+      "Complemento específico",
+      "Productividad",
+      "Gratificaciones por servicios extraordinarios"
+    ],
+    "correcta": 0,
+    "explicacion": "Las retribuciones básicas incluyen sueldo, trienios y pagas extraordinarias.",
+    "referencia": "Tema 22, 5.2 Retribuciones básicas"
+  },
+  {
+    "id": "t22-p023",
+    "tema": 22,
+    "pregunta": "¿Qué infracciones prescriben en el plazo más largo dentro del régimen disciplinario del TREBEP recogido en el tema?",
+    "opciones": [
+      "Muy graves",
+      "Graves",
+      "Leves",
+      "Todas prescriben en el mismo plazo"
+    ],
+    "correcta": 0,
+    "explicacion": "Las infracciones muy graves tienen el plazo de prescripción más largo frente a graves y leves.",
+    "referencia": "Tema 22, 8.4 Prescripción"
+  },
+  {
+    "id": "t22-p024",
+    "tema": 22,
+    "pregunta": "¿Qué actividad suele estar permitida sin autorización de compatibilidad según el tema?",
+    "opciones": [
+      "Administración del patrimonio personal o familiar, salvo conflicto de intereses",
+      "Cualquier segunda actividad privada remunerada",
+      "Asesoramiento permanente a contratistas de la Administración",
+      "Actividad privada coincidente con el horario público"
+    ],
+    "correcta": 0,
+    "explicacion": "La administración del patrimonio personal o familiar se admite salvo conflicto de intereses; otras actividades pueden requerir compatibilidad o estar prohibidas.",
+    "referencia": "Tema 22, 7.4 Actividades permitidas"
   }
 ]

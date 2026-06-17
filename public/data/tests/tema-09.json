@@ -208,5 +208,61 @@
     "correcta": 1,
     "explicacion": "El tema subraya que la autonomía local es administrativa y no política.",
     "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+  },
+  {
+    "id": "t09-p016",
+    "tema": 9,
+    "pregunta": "Según la clasificación de la LBRL del tema, ¿cuáles son entidades locales territoriales?",
+    "opciones": [
+      "Municipio, provincia e isla",
+      "Mancomunidad, consorcio y organismo autónomo",
+      "Área metropolitana, comarca y sociedad mercantil local",
+      "Provincia, sindicato y fundación pública"
+    ],
+    "correcta": 0,
+    "explicacion": "La LBRL distingue como entidades locales territoriales el municipio, la provincia y la isla.",
+    "referencia": "Tema 9, 2.1 Clasificación según la LBRL"
+  },
+  {
+    "id": "t09-p017",
+    "tema": 9,
+    "pregunta": "¿Qué elemento NO es esencial del municipio según el tema?",
+    "opciones": [
+      "La comarca",
+      "El territorio",
+      "La población",
+      "La organización"
+    ],
+    "correcta": 0,
+    "explicacion": "Los elementos esenciales del municipio son territorio, población y organización.",
+    "referencia": "Tema 9, 2.2 El Municipio"
+  },
+  {
+    "id": "t09-p018",
+    "tema": 9,
+    "pregunta": "¿Qué entidad se caracteriza por agrupar municipios para la ejecución común de obras y servicios de su competencia?",
+    "opciones": [
+      "Mancomunidad de municipios",
+      "Isla",
+      "Entidad local menor",
+      "Provincia como circunscripción electoral estatal"
+    ],
+    "correcta": 0,
+    "explicacion": "Las mancomunidades son asociaciones voluntarias de municipios para ejecutar en común obras y servicios.",
+    "referencia": "Tema 9, 2.8 Mancomunidades"
+  },
+  {
+    "id": "t09-p019",
+    "tema": 9,
+    "pregunta": "¿Qué servicio mínimo obligatorio se asocia en la LBRL a todos los municipios, con independencia de su población?",
+    "opciones": [
+      "Alumbrado público",
+      "Transporte colectivo urbano",
+      "Protección civil",
+      "Instalaciones deportivas de uso público"
+    ],
+    "correcta": 0,
+    "explicacion": "El alumbrado público figura entre los servicios mínimos de todos los municipios; otros dependen de tramos de población.",
+    "referencia": "Tema 9, 4.2 Servicios mínimos obligatorios"
   }
 ]

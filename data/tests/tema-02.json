@@ -236,5 +236,61 @@
     "correcta": 0,
     "explicacion": "El procedimiento ordinario de reforma constitucional exige la aprobacion por mayoria de tres quintos de Congreso y Senado.",
     "referencia": "Tema 2, 3.3 Procedimiento ordinario (art. 167 CE)"
+  },
+  {
+    "id": "t02-p018",
+    "tema": 2,
+    "pregunta": "¿Cuál es la combinación correcta de designación de los 12 magistrados del Tribunal Constitucional?",
+    "opciones": [
+      "4 Congreso, 4 Senado, 2 Gobierno y 2 CGPJ",
+      "4 Congreso, 4 Senado, 4 Gobierno y ninguno CGPJ",
+      "3 Congreso, 3 Senado, 3 Gobierno y 3 CGPJ",
+      "6 Congreso, 2 Senado, 2 Gobierno y 2 CGPJ"
+    ],
+    "correcta": 0,
+    "explicacion": "El TC se compone de 12 miembros: 4 a propuesta del Congreso, 4 del Senado, 2 del Gobierno y 2 del CGPJ.",
+    "referencia": "Tema 2, 1.2 Composición"
+  },
+  {
+    "id": "t02-p019",
+    "tema": 2,
+    "pregunta": "En la reforma constitucional ordinaria del art. 167 CE, si no hay acuerdo entre Cámaras, ¿qué mecanismo se intenta antes de votar nuevamente?",
+    "opciones": [
+      "Comisión paritaria de Diputados y Senadores",
+      "Disolución automática de las Cortes",
+      "Referéndum obligatorio inmediato",
+      "Dictamen vinculante del Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Si no hay acuerdo, se intenta obtenerlo mediante una Comisión de composición paritaria de Diputados y Senadores.",
+    "referencia": "Tema 2, 3.3 Dos procedimientos de reforma"
+  },
+  {
+    "id": "t02-p020",
+    "tema": 2,
+    "pregunta": "¿Qué afirmación sobre el Defensor del Pueblo es la más precisa?",
+    "opciones": [
+      "Es alto comisionado de las Cortes Generales y puede interponer recurso de amparo e inconstitucionalidad",
+      "Depende jerárquicamente del Gobierno y resuelve recursos administrativos",
+      "Es elegido por el Tribunal Constitucional por nueve años",
+      "Solo supervisa a la Administración General del Estado, no a otras Administraciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El Defensor del Pueblo es alto comisionado de las Cortes y está legitimado para interponer recurso de inconstitucionalidad y amparo.",
+    "referencia": "Tema 2, 2.1 y 2.7"
+  },
+  {
+    "id": "t02-p021",
+    "tema": 2,
+    "pregunta": "¿Cuándo está prohibido iniciar una reforma constitucional?",
+    "opciones": [
+      "En tiempo de guerra o durante los estados de alarma, excepción o sitio",
+      "Durante los seis meses posteriores a unas elecciones autonómicas",
+      "Cuando esté pendiente un recurso de inconstitucionalidad",
+      "Durante la tramitación de los Presupuestos Generales del Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 169 CE impide iniciar la reforma en tiempo de guerra o vigencia de alarma, excepción o sitio.",
+    "referencia": "Tema 2, 3.4 Límites temporales"
   }
 ]

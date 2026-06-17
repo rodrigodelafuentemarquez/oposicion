@@ -236,5 +236,61 @@
     "correcta": 1,
     "explicacion": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
     "referencia": "Tema 18, 5.2 Instruccion"
+  },
+  {
+    "id": "t18-p018",
+    "tema": 18,
+    "pregunta": "¿Qué requisito falta si el daño sufrido por el particular es genérico y no singularizable?",
+    "opciones": [
+      "Individualización de la lesión",
+      "Funcionamiento normal del servicio",
+      "Imputación al legislador",
+      "Acción de regreso"
+    ],
+    "correcta": 0,
+    "explicacion": "La lesión debe ser efectiva, evaluable económicamente e individualizada en relación con una persona o grupo.",
+    "referencia": "Tema 18, 2.1 Lesión efectiva"
+  },
+  {
+    "id": "t18-p019",
+    "tema": 18,
+    "pregunta": "¿Cuál es el plazo general para reclamar responsabilidad patrimonial desde que se produce el hecho o se manifiesta su efecto lesivo?",
+    "opciones": [
+      "Un año",
+      "Un mes",
+      "Cuatro años",
+      "Cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge el plazo de un año para iniciar la reclamación de responsabilidad patrimonial.",
+    "referencia": "Tema 18, 5.1 Iniciación"
+  },
+  {
+    "id": "t18-p020",
+    "tema": 18,
+    "pregunta": "La Administración solo exige responsabilidad a sus autoridades y personal mediante acción de regreso cuando concurre:",
+    "opciones": [
+      "Dolo, culpa o negligencia grave",
+      "Cualquier error material",
+      "Simple retraso no imputable",
+      "Fuerza mayor"
+    ],
+    "correcta": 0,
+    "explicacion": "La acción de regreso procede cuando la autoridad o empleado actuó con dolo, culpa o negligencia grave.",
+    "referencia": "Tema 18, 7.2 Acción de regreso"
+  },
+  {
+    "id": "t18-p021",
+    "tema": 18,
+    "pregunta": "¿Qué supuesto excluye la responsabilidad patrimonial de la Administración?",
+    "opciones": [
+      "Fuerza mayor",
+      "Funcionamiento normal del servicio público con lesión antijurídica",
+      "Funcionamiento anormal del servicio público",
+      "Daño efectivo e individualizado"
+    ],
+    "correcta": 0,
+    "explicacion": "La fuerza mayor excluye la responsabilidad patrimonial; el caso fortuito no opera igual en el esquema del tema.",
+    "referencia": "Tema 18, 3.1 Fuerza mayor"
   }
 ]

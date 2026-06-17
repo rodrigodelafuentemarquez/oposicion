@@ -236,5 +236,61 @@
     "correcta": 2,
     "explicacion": "Entre las funciones internas del Rey figura sancionar y promulgar las leyes aprobadas por las Cortes Generales.",
     "referencia": "Tema 3, 6.1 Funciones internas (art. 62 CE)"
+  },
+  {
+    "id": "t03-p018",
+    "tema": 3,
+    "pregunta": "En la sucesión a la Corona, dentro del mismo grado, ¿qué preferencia establece el art. 57 CE?",
+    "opciones": [
+      "El varón sobre la mujer",
+      "La mujer sobre el varón",
+      "La persona de mayor edad solo si es mujer",
+      "La línea colateral sobre la directa"
+    ],
+    "correcta": 0,
+    "explicacion": "El orden sucesorio prefiere la línea anterior, el grado más próximo, el varón a la mujer en el mismo grado, y la persona de más edad a la de menos.",
+    "referencia": "Tema 3, 2.1 Principios sucesorios"
+  },
+  {
+    "id": "t03-p019",
+    "tema": 3,
+    "pregunta": "¿Qué acto del Rey NO necesita refrendo según el tema?",
+    "opciones": [
+      "Nombrar y relevar libremente a los miembros civiles y militares de su Casa",
+      "Sancionar las leyes",
+      "Convocar elecciones",
+      "Proponer candidato a Presidente del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Los actos relativos a la Casa del Rey del art. 65 CE no están sujetos a refrendo.",
+    "referencia": "Tema 3, 7.3 Actos no sujetos a refrendo"
+  },
+  {
+    "id": "t03-p020",
+    "tema": 3,
+    "pregunta": "Si el Rey es menor de edad, ¿quién ejerce en primer lugar la Regencia?",
+    "opciones": [
+      "El padre o la madre del Rey, y en su defecto el pariente mayor de edad más próximo a suceder en la Corona",
+      "El Presidente del Congreso",
+      "El Presidente del Gobierno",
+      "El tutor designado por las Cortes, siempre"
+    ],
+    "correcta": 0,
+    "explicacion": "En caso de minoría de edad, la Regencia corresponde al padre o madre y, en su defecto, al pariente mayor de edad más próximo en la sucesión.",
+    "referencia": "Tema 3, 3.1 Regencia por minoría de edad"
+  },
+  {
+    "id": "t03-p021",
+    "tema": 3,
+    "pregunta": "¿Quién resuelve por ley orgánica las abdicaciones, renuncias y dudas de hecho o de derecho en el orden sucesorio?",
+    "opciones": [
+      "Las Cortes Generales",
+      "El Gobierno",
+      "El Tribunal Constitucional",
+      "El Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 57.5 CE reserva estas cuestiones a una ley orgánica de las Cortes Generales.",
+    "referencia": "Tema 3, 2.4 Abdicaciones, renuncias y dudas"
   }
 ]

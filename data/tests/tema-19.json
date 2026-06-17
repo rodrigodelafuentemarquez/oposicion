@@ -222,5 +222,61 @@
     "correcta": 0,
     "explicacion": "El temario fija 6 meses para recurrir los actos presuntos por silencio administrativo.",
     "referencia": "Tema 19, 3.3 Límite temporal: el plazo de interposición (art. 46 LJCA)"
+  },
+  {
+    "id": "t19-p017",
+    "tema": 19,
+    "pregunta": "¿Qué materia está excluida de la jurisdicción contencioso-administrativa según el tema?",
+    "opciones": [
+      "Cuestiones expresamente atribuidas a los órdenes civil, penal y social",
+      "Actos administrativos definitivos",
+      "Disposiciones generales administrativas",
+      "Inactividad de la Administración"
+    ],
+    "correcta": 0,
+    "explicacion": "La LJCA excluye materias atribuidas a otros órdenes jurisdiccionales, entre otras exclusiones.",
+    "referencia": "Tema 19, 2.2 Materias excluidas"
+  },
+  {
+    "id": "t19-p018",
+    "tema": 19,
+    "pregunta": "¿Cuál es el plazo general para interponer recurso contencioso-administrativo contra un acto expreso?",
+    "opciones": [
+      "Dos meses",
+      "Un mes",
+      "Tres meses",
+      "Un año"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge el plazo general de dos meses para actos expresos.",
+    "referencia": "Tema 19, 3.3 Límite temporal"
+  },
+  {
+    "id": "t19-p019",
+    "tema": 19,
+    "pregunta": "¿Qué órgano conoce, en términos generales, de recursos contra actos de entidades locales cuando no estén atribuidos a otros órganos?",
+    "opciones": [
+      "Juzgados de lo Contencioso-Administrativo",
+      "Tribunal Supremo",
+      "Tribunal Constitucional",
+      "Audiencia Nacional siempre"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye a los Juzgados de lo Contencioso-Administrativo muchos asuntos de ámbito local.",
+    "referencia": "Tema 19, 4.1 Juzgados de lo Contencioso-Administrativo"
+  },
+  {
+    "id": "t19-p020",
+    "tema": 19,
+    "pregunta": "¿Qué modalidad procesal protege derechos fundamentales en el orden contencioso-administrativo?",
+    "opciones": [
+      "Procedimiento especial para la protección de derechos fundamentales",
+      "Recurso de casación constitucional directo",
+      "Revisión de oficio judicial",
+      "Expediente sancionador abreviado"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre las modalidades procesales se incluye el procedimiento especial para protección de derechos fundamentales.",
+    "referencia": "Tema 19, 5.1 Modalidades procesales"
   }
 ]

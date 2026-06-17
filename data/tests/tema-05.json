@@ -222,5 +222,61 @@
     "correcta": 1,
     "explicacion": "La cuestion de confianza se entiende otorgada si obtiene la mayoria simple del Congreso.",
     "referencia": "Tema 5, 7.1 La cuestion de confianza (art. 112 CE)"
+  },
+  {
+    "id": "t05-p017",
+    "tema": 5,
+    "pregunta": "Si transcurren dos meses desde la primera votación de investidura sin que ningún candidato obtenga la confianza, ¿qué sucede?",
+    "opciones": [
+      "El Rey disuelve ambas Cámaras y convoca nuevas elecciones con refrendo del Presidente del Congreso",
+      "El candidato más votado queda automáticamente investido",
+      "El Gobierno en funciones pasa a ser Gobierno ordinario",
+      "El Senado elige al Presidente por mayoría absoluta"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 99.5 CE prevé disolución de ambas Cámaras y convocatoria electoral con refrendo del Presidente del Congreso.",
+    "referencia": "Tema 5, 3.2 Supuesto de bloqueo"
+  },
+  {
+    "id": "t05-p018",
+    "tema": 5,
+    "pregunta": "¿Cuál de estos órganos superiores de la AGE pertenece a la organización periférica?",
+    "opciones": [
+      "Delegados del Gobierno en las Comunidades Autónomas",
+      "Secretarios de Estado",
+      "Subsecretarios",
+      "Secretarios Generales Técnicos"
+    ],
+    "correcta": 0,
+    "explicacion": "Los Delegados del Gobierno integran la organización periférica de la AGE; los demás son organización central.",
+    "referencia": "Tema 5, 10.2 y 10.3"
+  },
+  {
+    "id": "t05-p019",
+    "tema": 5,
+    "pregunta": "¿Qué afirmación sobre los Secretarios de Estado es correcta según el tema?",
+    "opciones": [
+      "No son miembros del Gobierno aunque sean altos órganos de la Administración",
+      "Son miembros necesarios del Gobierno junto al Presidente",
+      "Refrendan los actos del Rey en todo caso",
+      "Presiden el Consejo de Ministros por sustitución ordinaria"
+    ],
+    "correcta": 0,
+    "explicacion": "Los Secretarios de Estado son órganos superiores de la Administración, pero no miembros del Gobierno.",
+    "referencia": "Tema 5, 2.2 Los Secretarios de Estado"
+  },
+  {
+    "id": "t05-p020",
+    "tema": 5,
+    "pregunta": "¿Quién nombra y separa a los Ministros?",
+    "opciones": [
+      "El Rey, a propuesta del Presidente del Gobierno",
+      "El Congreso, por mayoría absoluta",
+      "El Consejo de Ministros, por real decreto propio",
+      "El Presidente del Congreso, tras consulta a los grupos"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 100 CE atribuye el nombramiento y separación de los miembros del Gobierno al Rey, a propuesta de su Presidente.",
+    "referencia": "Tema 5, 4. Nombramiento de los demás miembros"
   }
 ]

@@ -208,5 +208,61 @@
     "correcta": 0,
     "explicacion": "El tema subraya la confidencialidad como garantía.",
     "referencia": "Tema 24, 3.6 Garantías del procedimiento"
+  },
+  {
+    "id": "t24-p016",
+    "tema": 24,
+    "pregunta": "¿Qué rasgo ayuda a distinguir el acoso de un conflicto puntual en el protocolo descrito?",
+    "opciones": [
+      "La reiteración o sistematicidad de las conductas",
+      "Que siempre exista agresión física",
+      "Que lo cometa exclusivamente personal externo",
+      "Que no afecte nunca a la salud laboral"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema subraya la sistematicidad o reiteración como rasgo característico del acoso frente a incidentes aislados.",
+    "referencia": "Tema 24, 3.1 Concepto y tipos de acoso"
+  },
+  {
+    "id": "t24-p017",
+    "tema": 24,
+    "pregunta": "¿Cuál de estas medidas encaja mejor con la prevención de violencia ocupacional?",
+    "opciones": [
+      "Registro y análisis de incidentes de violencia",
+      "Eliminar toda atención presencial sin evaluación previa",
+      "Resolver los incidentes solo por vía penal",
+      "Impedir informar a los trabajadores para evitar alarma"
+    ],
+    "correcta": 0,
+    "explicacion": "El protocolo prevé sistemas de registro y análisis de incidentes, junto con medidas organizativas, formativas y materiales.",
+    "referencia": "Tema 24, 2.4 Medidas preventivas"
+  },
+  {
+    "id": "t24-p018",
+    "tema": 24,
+    "pregunta": "En el procedimiento de acoso, ¿qué garantía resulta esencial según el tema?",
+    "opciones": [
+      "Confidencialidad y protección frente a represalias",
+      "Publicidad íntegra de las denuncias",
+      "Supresión de audiencia a la persona afectada",
+      "Sanción automática sin investigación"
+    ],
+    "correcta": 0,
+    "explicacion": "El procedimiento debe garantizar confidencialidad, protección frente a represalias, imparcialidad y respeto a las personas implicadas.",
+    "referencia": "Tema 24, 3.6 Garantías del procedimiento"
+  },
+  {
+    "id": "t24-p019",
+    "tema": 24,
+    "pregunta": "¿Qué tipo de violencia ocupacional se produce cuando la agresión proviene de usuarios, pacientes, administrados o terceros ajenos a la organización?",
+    "opciones": [
+      "Violencia externa",
+      "Acoso laboral interno necesariamente",
+      "Conflicto de competencias",
+      "Violencia institucional legislativa"
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia externa procede de personas ajenas a la organización, como usuarios o terceros.",
+    "referencia": "Tema 24, 2.2 Tipos de violencia ocupacional"
   }
 ]
